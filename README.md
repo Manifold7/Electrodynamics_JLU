@@ -5,8 +5,12 @@
 
 为方便学弟学妹们增加试题，以及修改书中错误，故将之作为Github开源项目。
 
-对于不熟悉LaTeX的同学我们非常推荐使用[sharelatex](https://cn.sharelatex.com)和[overleaf](https://www.overleaf.com/)这两个在线的LaTeX编辑器。本书的大部分内容也将在这两个编辑器中完成。
+~~对于不熟悉LaTeX的同学我们非常推荐使用[sharelatex](https://cn.sharelatex.com)和[overleaf](https://www.overleaf.com/)这两个在线的LaTeX编辑器。本书的大部分内容也将在这两个编辑器中完成。~~
 
+不知道是不是王大可家网速的问题ShareLaTeX无法在可以忍受的时间内完成编译，目前王大可的编辑环境已经转为VS code+TeXLive2018。
+（比起在线编译VS code真的爽啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！）
+
+为了之后学弟学妹们更容易的更改，可能将本书分割为若干个文档以适应在线的编译环境。
 
 本项目由吉林大学物理学院15级小锡与王大可发起，保留所有权力。
 

@@ -12,6 +12,8 @@
 
 为了之后学弟学妹们更容易的更改，可能将本书分割为若干个文档以适应在线的编译环境。
 
-本项目由吉林大学物理学院15级小锡与王大可发起，保留所有权力。
+本项目由吉林大学物理学院15级弱智一样且懒惰的小锡与勤劳又智慧的王大可发起，保留所有权力。
+
+If there‘s someone who occasionally reads this and gets interested in it, welcome to join, contribute or drop off some advises. Have fun!
 
 本作品(电动力学题解)采用知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议进行许可。要查看该许可协议，可访问 https://creativecommons.org/licenses/by-nc-sa/4.0/ 或者写信到 Creative Commons, PO Box 1866, Mountain View, CA 94042, USA。
